@@ -13,10 +13,7 @@
   "require": [
     "ts-node/register",
     "tsconfig-paths/register",
-    "mochawesome/register",
-    "chai/register-expect",
-    "chai/register-should",
-    "chai/register-assert"
+    "mochawesome/register"
   ],
   "extension": [".test.ts"],
   "timeout": 120000,

@@ -6,7 +6,6 @@
     "target": "es2018",
     "types": [
       "node",
-      "global",
       "playwright",
       "@types/chai",
       "@types/mocha"
